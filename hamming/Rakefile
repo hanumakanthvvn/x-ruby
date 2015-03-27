@@ -1,0 +1,5 @@
+task :test do
+  puts "hello"
+end
+
+task default: :test

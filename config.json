@@ -1,0 +1,17 @@
+{
+"slug": "ruby",
+"language": "Ruby",
+"repository": "https://github.com/hanumakanthvvn/x-ruby",
+"active": true,
+"problems": [
+"hamming"
+],
+"deprecated": [
+"octal",
+"point-mutations"
+],
+"ignored": [
+],
+"foregone": [
+]
+}
