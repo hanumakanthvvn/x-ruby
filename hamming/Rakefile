@@ -1,5 +1,5 @@
 task :test do
-  puts "hello"
+  puts `ruby hamming_test.rb`
 end
 
 task default: :test
