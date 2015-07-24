@@ -2,7 +2,7 @@
 "slug": "ruby",
 "language": "Ruby",
 "repository": "https://github.com/hanumakanthvvn/x-ruby",
-"active": true,
+"active": false,
 "problems": [
 "hamming"
 ],
